@@ -1,6 +1,6 @@
 {
     "name": "quill-image-super-solution-module",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "The ultimate solution. Image upload server. Copy, drag and drop to upload server.",
     "main": "index.js",
     "scripts": {
