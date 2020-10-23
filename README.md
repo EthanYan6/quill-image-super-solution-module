@@ -34,7 +34,12 @@ This module is a special plug-in for the rich text editor `vue-quill-editor`, wh
     1. 更改说明文档，修复说明文档中示例的错误 Change the description document and fix the errors in the examples in the description
 
 -   Version 1.0.3
+  
     1. 解决编辑器中不能粘贴文本的 `bug` Solve the `bug` that cannot paste text in the editor
+    
+-   Version 1.0.4
+  
+    1. Npm 模块说明文档中的 `keyword` 设置错误，对其进行修正。 The `keyword` setting error in the Npm module description document is corrected.
 
 ## 安装 installation
 
