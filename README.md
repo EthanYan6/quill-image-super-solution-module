@@ -43,7 +43,7 @@ This module is a special plug-in for the rich text editor `vue-quill-editor`, wh
 
 -   Version 2.0.0
   
-    1. 无更新 No update
+    1. 没更新什么，就是想发个大版本玩玩 Nothing updated, just want to send a big version for fun
 
 ## 安装 installation
 
