@@ -1,6 +1,6 @@
 {
     "name": "quill-image-super-solution-module",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "The ultimate solution. Image upload server. Copy, drag and drop to upload server.",
     "main": "index.js",
     "scripts": {
@@ -9,7 +9,7 @@
     "repository": {
         "url": "https://github.com/EthanYan6/quill-image-super-solution-module"
     },
-    "keywords": ["quill", "image", "uploads", "extend"],
+    "keywords": ["quill", "image", "uploads", "extend, paste, drop, vue, editor"],
     "author": "ethanyan",
     "license": "MIT",
     "bugs": {

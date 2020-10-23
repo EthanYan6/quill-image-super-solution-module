@@ -101,6 +101,17 @@ export class ImageExtend {
                     this.toBase64();
                 }
             }
+            if (item && item.kind === "string" && ["text/plain", "text/html"].indexOf(item.types)) {
+                //将粘贴的内容插入到编辑器中
+                item.getAsString(function(s) {
+                    const self = QuillWatch.active;
+                    let length = self.quill.getSelection(true).index;
+                    self.cursorIndex = length;
+                    self.quill.insertText(QuillWatch.active.cursorIndex, s);
+                    self.quill.update();
+                    setTimeout(() => self.quill.setSelection(self.cursorIndex + s.length, 0), 0);
+                });
+            }
         }
     }
 
