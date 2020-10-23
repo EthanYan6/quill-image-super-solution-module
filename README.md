@@ -173,3 +173,7 @@ This module refers to many plug-ins and integrates what everyone has made. Take 
 -   quill-image-paste-module
 -   quill-image-drop-module
 -   还有很多 `Stack Overflow` 上好心人提供的代码 There is also a lot of code provided by good people on Stack Overflow
+
+**如果好用，请点一下右上角的星星**
+
+**Please click the star if it works**
