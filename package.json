@@ -9,7 +9,7 @@
     "repository": {
         "url": "https://github.com/EthanYan6/quill-image-super-solution-module"
     },
-    "keywords": ["quill", "image", "uploads", "extend, paste, drop, vue, editor"],
+    "keywords": ["vue", "editor", "quill", "image", "uploads", "extend", "paste", "drop"],
     "author": "ethanyan",
     "license": "MIT",
     "bugs": {
