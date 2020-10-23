@@ -102,7 +102,7 @@ export class ImageExtend {
                 }
             }
             if (item && item.kind === "string" && ["text/plain", "text/html"].indexOf(item.types)) {
-                //将粘贴的内容插入到编辑器中
+                //将粘贴的文本内容插入到编辑器中
                 item.getAsString(function(s) {
                     const self = QuillWatch.active;
                     let length = self.quill.getSelection(true).index;
