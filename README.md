@@ -75,7 +75,7 @@ export default {
             example: "test",
             content: "",
             // 富文本框参数设置 
-          	// Rich text box parameter settings
+            // Rich text box parameter settings
             editorOption: {
                 modules: {
                     ImageExtend: {
