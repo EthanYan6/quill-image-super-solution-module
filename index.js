@@ -107,7 +107,7 @@ export class ImageExtend {
                     const self = QuillWatch.active;
                     let length = self.quill.getSelection(true).index;
                     self.cursorIndex = length;
-                    self.quill.insertText(QuillWatch.active.cursorIndex, s);
+                    self.quill.insertText(QuillWatch.active.cursorIndex, s.replace(/\s{2,}/g, "\n"));
                     self.quill.update();
                     setTimeout(() => self.quill.setSelection(self.cursorIndex + s.length, 0), 0);
                 });

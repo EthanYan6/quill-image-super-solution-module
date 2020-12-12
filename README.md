@@ -45,6 +45,10 @@ This module is a special plug-in for the rich text editor `vue-quill-editor`, wh
   
     1. 没更新什么，就是想发个大版本玩玩 Nothing updated, just want to send a big version for fun
 
+-   Version 2.0.1
+  
+    1. 解决当复制多行文本且文本中有回车时，会出现多余空白行的 `bug` Solve the `bug` that extra blank lines will appear when copying multiple lines of text and there is a carriage return in the text
+
 ## 安装 installation
 
 ```shell
