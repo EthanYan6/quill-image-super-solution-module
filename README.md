@@ -3,12 +3,10 @@
 ![npm](https://img.shields.io/npm/v/quill-image-super-solution-module)
 ![npm](https://img.shields.io/npm/dt/quill-image-super-solution-module)
 ![GitHub](https://img.shields.io/github/license/EthanYan6/quill-image-super-solution-module)
-![GitHub Repo stars](https://img.shields.io/github/stars/EthanYan6/quill-image-super-solution-module?style=social)
-![GitHub forks](https://img.shields.io/github/forks/EthanYan6/quill-image-super-solution-module?style=social)
 ![GitHub top language](https://img.shields.io/github/languages/top/EthanYan6/quill-image-super-solution-module)
 ![GitHub issues](https://img.shields.io/github/issues/EthanYan6/quill-image-super-solution-module)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/EthanYan6/quill-image-super-solution-module)
-
+![GitHub Repo stars](https://img.shields.io/github/stars/EthanYan6/quill-image-super-solution-module?style=social)
+![GitHub forks](https://img.shields.io/github/forks/EthanYan6/quill-image-super-solution-module?style=social)
 
 
 ## 简介 Introduction
