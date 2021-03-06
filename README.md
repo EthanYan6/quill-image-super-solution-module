@@ -1,5 +1,16 @@
 # quill-image-super-solution-module
 
+![npm](https://img.shields.io/npm/v/quill-image-super-solution-module)
+![npm](https://img.shields.io/npm/dt/quill-image-super-solution-module)
+![GitHub](https://img.shields.io/github/license/EthanYan6/quill-image-super-solution-module)
+![GitHub Repo stars](https://img.shields.io/github/stars/EthanYan6/quill-image-super-solution-module?style=social)
+![GitHub forks](https://img.shields.io/github/forks/EthanYan6/quill-image-super-solution-module?style=social)
+![GitHub top language](https://img.shields.io/github/languages/top/EthanYan6/quill-image-super-solution-module)
+![GitHub issues](https://img.shields.io/github/issues/EthanYan6/quill-image-super-solution-module)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/EthanYan6/quill-image-super-solution-module)
+
+
+
 ## 简介 Introduction
 
 此模块为富文本编辑器 `vue-quill-editor` 的专用插件，为其提供了自定义上传图片到服务器、**粘贴**图片上传至服务器、**拖拽**图片上传至服务器的功能。支持与其他模块一起使用。
