@@ -1,8 +1,11 @@
 # quill-image-super-solution-module
 
-![npm](https://img.shields.io/npm/v/quill-image-super-solution-module)
-![npm](https://img.shields.io/npm/dt/quill-image-super-solution-module)
 ![GitHub](https://img.shields.io/github/license/EthanYan6/quill-image-super-solution-module)
+![npm](https://img.shields.io/npm/v/quill-image-super-solution-module)
+![vue-quill-editor](https://img.shields.io/badge/vue--quill--editor-%5E3.0.6-red)
+![vue](https://img.shields.io/badge/vue-2.6.10-green)
+![npm](https://img.shields.io/npm/dt/quill-image-super-solution-module)
+![GitHub last commit](https://img.shields.io/github/last-commit/EthanYan6/quill-image-super-solution-module)
 ![GitHub top language](https://img.shields.io/github/languages/top/EthanYan6/quill-image-super-solution-module)
 ![GitHub issues](https://img.shields.io/github/issues/EthanYan6/quill-image-super-solution-module)
 ![GitHub Repo stars](https://img.shields.io/github/stars/EthanYan6/quill-image-super-solution-module?style=social)
