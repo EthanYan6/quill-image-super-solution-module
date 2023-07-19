@@ -180,6 +180,8 @@ export class ImageExtend {
                     let res = JSON.parse(xhr.responseText);
                     self.imgURL = config.response(res);
                     QuillWatch.active.uploadSuccess();
+                    // 插入图片前，更新光标位置
+                    self.cursorIndex = self.quill.getSelection(true).index
                     self.insertImg();
                     if (self.config.success) {
                         self.config.success();
