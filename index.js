@@ -156,6 +156,8 @@ export class ImageExtend {
         const self = this;
         let quillLoading = self.quillLoading;
         let config = self.config;
+        // 插入图片前，更新光标位置
+        self.cursorIndex = self.quill.getSelection(true).index;
         // 构造表单
         let formData = new FormData();
         formData.append(config.name, self.file);
@@ -180,8 +182,6 @@ export class ImageExtend {
                     let res = JSON.parse(xhr.responseText);
                     self.imgURL = config.response(res);
                     QuillWatch.active.uploadSuccess();
-                    // 插入图片前，更新光标位置
-                    self.cursorIndex = self.quill.getSelection(true).index
                     self.insertImg();
                     if (self.config.success) {
                         self.config.success();
